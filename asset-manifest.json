@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.41e7b267.css",
+    "main.js": "/website/static/js/main.4c4b04e9.js",
+    "static/media/background.jpg": "/website/static/media/background.2c4dc58b37aa7c3d5a42.jpg",
+    "static/media/20160807_105924.jpg": "/website/static/media/20160807_105924.14af1ae144ca21cb98ed.jpg",
+    "static/media/dante-portrait.jpg": "/website/static/media/dante-portrait.66a8ae9de732b10d143c.jpg",
+    "index.html": "/website/index.html",
+    "main.41e7b267.css.map": "/website/static/css/main.41e7b267.css.map",
+    "main.4c4b04e9.js.map": "/website/static/js/main.4c4b04e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e7b267.css",
+    "static/js/main.4c4b04e9.js"
+  ]
+}
